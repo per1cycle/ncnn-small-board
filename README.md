@@ -15,6 +15,7 @@ See https://github.com/Tencent/ncnn for more info about ncnn.
 | NVIDIA Jetson AGX Orin | ![img](/images/jetsonagxorin.jpg) | A78AE 2.2GHz x 12                                                 | 3.50       | 3.49      | 5.08       |
 | Radxa Rock5B           | ![img](/images/rock5b.jpg)        | RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4              | 3.65       | 5.41      | 3.37       |
 | Orange Pi 5            | ![img](/images/opi5.jpg)          | RK3588S<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4             | 3.83       | 5.75      | 3.57       |
+| Spacemit K3 board      |                                   | X100 <br /><br /> A100 2400MHz x 16                               | 5.98       | 5.47      | 9.08       |
 | ZYSJ RK3588            |                                   | ARM Mali-G610                                                     | 7.09       | 9.16      | 5.88       |
 | ZYSJ RK3588            |                                   | RK3588<br /><br />A76 2.4GHz x 4<br />A55 1.8GHz x 4              | 7.57       | 11.01     | 7.95       |
 | Raspberry Pi 5B        |                                   | BCM2712<br /><br />A76 2.4GHz x 4                                 | 8.56       | 11.32     | 4.56       |
